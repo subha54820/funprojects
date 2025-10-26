@@ -1,7 +1,7 @@
 import time
 import sys
 import pygame
-
+#changes
 def play_music():
     pygame.init()
     
